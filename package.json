@@ -13,7 +13,7 @@
     "chalk": "^2.3.2",
     "dat-swarm-defaults": "^1.0.1",
     "debug": "^3.1.0",
-    "discovery-swarm": "^5.1.1",
+    "discovery-swarm": "github:martinheidegger/discovery-swarm#2ba8ddd44edb77059a1530e797f03ba874a9620a",
     "dns-discovery": "^6.1.0",
     "figures": "^2.0.0",
     "menu-string": "^1.2.0",
